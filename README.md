@@ -14,7 +14,7 @@ I wrote some new test programs for the Atari 820 to check out its characeter set
 
 These programs are on the [A820.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A820.ATR) disk image.
 
-[ANTIC Magazine Vol.2 No.10](https://archive.org/details/1984-01-anticmagazine/page/n31/mode/2up) has two type-in programs that use the 820 to print a pocket-sized calendar. I included the CALENDAR.BAS and SIDEWRIT.BAS programs on the ATR as well.
+[ANTIC Magazine Vol.2 No.10](https://archive.org/details/1984-01-anticmagazine/page/n31/mode/2up) has two type-in programs that use the 820 to print a [pocket-sized calendar](https://www.atarimagazines.com/v2n10/PocketCalendar1984.html). I included the CALENDAR.BAS and SIDEWRIT.BAS programs on the ATR as well.
 
 The [Atari Home Computer Technical Reference Notes](https://archive.org/details/bitsavers_atari40080mputerTechnicalReferenceNotes1982_20170986/page/n179/mode/2up) has some description of the Atari 820, too.
 
