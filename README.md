@@ -11,6 +11,7 @@ I wrote some new test programs for the Atari 820 to check out its characeter set
 * CHARSET.BAS - prints out a numbered characeter set between ASCII 32 and 127 in normal mode.
 * SIDESET.BAS - prints out a numbered characeter set between ASCII 32 and 127 in sideways mode.
 * MORE820.BAS - explores some behavior of combining normal and sideways modes.
+
 These programs are on the [A820.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A820.ATR) disk image.
 
 [ANTIC Magazine Vol.2 No.10](https://archive.org/details/1984-01-anticmagazine/page/n31/mode/2up) has two type-in programs that use the 820 to print a pocket-sized calendar. I included the CALENDAR.BAS and SIDEWRIT.BAS programs on the ATR as well.
