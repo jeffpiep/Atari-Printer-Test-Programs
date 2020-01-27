@@ -10,7 +10,7 @@ The [Atari 820 Field Service Manual](https://archive.org/details/FD100048_Atari8
 I wrote some new test programs for the Atari 820 to check out its characeter sets and behavior, especially in the peculiar "sideways" mode. There are:
 * CHARSET.BAS - prints out a numbered characeter set between ASCII 32 and 127 in normal mode.
 * SIDESET.BAS - prints out a numbered characeter set between ASCII 32 and 127 in sideways mode.
-* MORE820.BAS - explores some behavior of combining normal and sideways modes.
+* MORE820.BAS - explores some behavior of combining normal and sideways modes. This program crashes my 130XE but not Altirra.
 
 These programs are on the [A820.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A820.ATR) disk image.
 
