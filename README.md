@@ -1,5 +1,5 @@
 # Atari-Printer-Test-Programs
-Here I have different Atari BASIC programs for testing printers. Some come from the field service manuals and others were written to test behavior. Some where found in the [pigwa FTP archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html). This repository originated from writing printer simulators for the [FujiNet project](https://github.com/FujiNetWIFI) and needing to validate their behavior. Below is some discussion on each program and links to relevant source material.
+Here I have different Atari BASIC programs for testing printers. Some come from the field service manuals and others were written to test behavior. Some where found in the pigwa FTP archive. This repository originated from writing printer simulators for the [FujiNet project](https://github.com/FujiNetWIFI) and needing to validate their behavior. Below is some discussion on each program and links to relevant source material.
 
 ## Atari 1027
 The program T1027.BAS is cited in the [Atari 1027 Field Service Manual](https://archive.org/details/Atari1027PrinterFieldServiceManualRev01/page/n19/mode/2up). The manual has sample output from the program, although I think what is printed in the manual was not generated with the exact program found online. Use caution when viewing the sample output in a PDF as there are two versions of the manual: one is scanned showing the original 1027 font (Prestige Elite?) and the other uses PDF built-in Adobe Type1 Courier font. If you have a restored 1027 and would run this program, a scanned image of your output would be appreciated. The program (and two other test programs for the 1020 and 1025) can be found on the [Atari FTP Archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html) or on the [PRINTERS.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/PRINTERS.ATR) disk image.
@@ -18,3 +18,4 @@ These programs are on the [A820.ATR](https://github.com/jeffpiep/Atari-Printer-T
 
 The [Atari Home Computer Technical Reference Notes](https://archive.org/details/bitsavers_atari40080mputerTechnicalReferenceNotes1982_20170986/page/n179/mode/2up) has some description of the Atari 820, too.
 
+## Atari 1020
