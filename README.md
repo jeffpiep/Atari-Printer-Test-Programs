@@ -19,7 +19,7 @@ The [Atari Home Computer Technical Reference Notes](https://archive.org/details/
 
 Page 7 of the [Atari 822 Operator's Manual](https://archive.org/details/atari_822_operators_manual/page/n7/mode/2up) contains a type-in BASIC program to plot a GRAPHICS 8 screen and print it on the Atari 822. That program is on the [A822.ATR]() image.
 
+## Atari 1020
+
 ## Atari 1027
 The program T1027.BAS is cited in the [Atari 1027 Field Service Manual](https://archive.org/details/Atari1027PrinterFieldServiceManualRev01/page/n19/mode/2up). The manual has sample output from the program, although I think what is printed in the manual was not generated with the exact program found online. Use caution when viewing the sample output in a PDF as there are two versions of the manual: one is scanned showing the original 1027 font (Prestige Elite?) and the other uses PDF built-in Adobe Type1 Courier font. If you have a restored 1027 and would run this program, a scanned image of your output would be appreciated. The program (and two other test programs for the 1020 and 1025) can be found on the [Atari FTP Archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html) or on the [PRINTERS.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/PRINTERS.ATR) disk image.
-
-## Atari 1020
