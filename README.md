@@ -21,7 +21,7 @@ Page 7 of the [Atari 822 Operator's Manual](https://archive.org/details/atari_82
 
 ## Atari 825
 
-Page 2 of the [Atari 825 Operator's Manual]() shows the 3 different character sets in normal and elongated mode. An original BASIC program "A825CHAR.BAS" that recreates this page is on the [A825.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A825.ATR) image. 
+Page 2 of the [Atari 825 Operator's Manual](https://archive.org/details/Atari825PrinterOperatorsManual/page/n5/mode/2up) shows the 3 different character sets in normal and elongated mode. An original BASIC program "A825CHAR.BAS" that recreates this page is on the [A825.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A825.ATR) image. 
 
 ## Atari 1020
 
