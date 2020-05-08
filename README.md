@@ -17,7 +17,11 @@ The [Atari Home Computer Technical Reference Notes](https://archive.org/details/
 
 ## Atari 822
 
-Page 7 of the [Atari 822 Operator's Manual](https://archive.org/details/atari_822_operators_manual/page/n7/mode/2up) contains a type-in BASIC program to plot a GRAPHICS 8 screen and print it on the Atari 822. That program is on the [A822.ATR]() image.
+Page 7 of the [Atari 822 Operator's Manual](https://archive.org/details/atari_822_operators_manual/page/n7/mode/2up) contains a type-in BASIC program to plot a GRAPHICS 8 screen and print it on the Atari 822. That program is on the [A822.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A822.ATR) image.
+
+## Atari 825
+
+Page 2 of the [Atari 825 Operator's Manual]() shows the 3 different character sets in normal and elongated mode. An original BASIC program "A825CHAR.BAS" that recreates this page is on the [A825.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A825.ATR) image. 
 
 ## Atari 1020
 
