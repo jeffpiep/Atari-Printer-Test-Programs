@@ -16,16 +16,19 @@ These programs are on the [A820.ATR](https://github.com/jeffpiep/Atari-Printer-T
 The [Atari Home Computer Technical Reference Notes](https://archive.org/details/bitsavers_atari40080mputerTechnicalReferenceNotes1982_20170986/page/n179/mode/2up) has some description of the Atari 820, too.
 
 ## Atari 822
-
 Page 7 of the [Atari 822 Operator's Manual](https://archive.org/details/atari_822_operators_manual/page/n7/mode/2up) contains a type-in BASIC program to plot a GRAPHICS 8 screen and print it on the Atari 822. That program is on the [A822.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A822.ATR) image.
 
 ## Atari 825
-
 Page 2 of the [Atari 825 Operator's Manual](https://archive.org/details/Atari825PrinterOperatorsManual/page/n5/mode/2up) shows the 3 different character sets in normal and elongated mode. An original BASIC program "A825CHAR.BAS" that recreates this page is on the [A825.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/A825.ATR) image. 
 
 ## Atari 1020
-
 The program T1020.BAS is cited in the [Atari 1020 Field Service Manual](https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari/page/n31/mode/2up). Sample printouts are shown in the manual. The program can be found on the [Atari FTP Archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html) or on the [PRINTERS.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/PRINTERS.ATR) disk image.
+
+## Atari 1025
+The program T1025.BAS can be found on the [Atari FTP Archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html) or on the [PRINTERS.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/PRINTERS.ATR) disk image.
 
 ## Atari 1027
 The program T1027.BAS is cited in the [Atari 1027 Field Service Manual](https://archive.org/details/Atari1027PrinterFieldServiceManualRev01/page/n19/mode/2up). The manual has sample output from the program, although I think what is printed in the manual was not generated with the exact program found online. Use caution when viewing the sample output in a PDF as there are two versions of the manual: one is scanned showing the original 1027 font (Prestige Elite?) and the other uses PDF built-in Adobe Type1 Courier font. If you have a restored 1027 and would run this program, a scanned image of your output would be appreciated. The program (and two other test programs for the 1020 and 1025) can be found on the [Atari FTP Archive](http://ftp.pigwa.net/stuff/collections/holmes%20cd/Holmes%202/Programming/Basic/index.html) or on the [PRINTERS.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/PRINTERS.ATR) disk image.
+
+## Atari 1029
+The program A1029CHR.BAS prints out all the Atari 1029 character sets documented in the [Atari 1029 Programmable Printer Manual](https://atariage.com/forums/applications/core/interface/file/attachment.php?id=496311) (or in [Italian](https://archive.org/details/atari1029it/mode/2up)). Thank-you to Łukasz Maśko of the [Atari 8-Bit Computers](https://www.facebook.com/groups/181644898539691) for debugging this program on his real, working Atari 1029 printer.
