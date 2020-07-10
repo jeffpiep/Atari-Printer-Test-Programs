@@ -35,7 +35,7 @@ The program A1029CHR.BAS prints out all the Atari 1029 character sets documented
 
 ## Okimate 10
 
-The [OKIMATE.ATR]() disk image contains two test programs.
+The [OKIMATE.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/OKIMATE.ATR) disk image contains two test programs.
 
 The program MANDEMOS.BAS is a compilation of the short demo programs scattered throughout the [Okimate 10 Printer Handbook for Atari Computers](http://www.atarimania.com/8bit/files/Okimate_10_Printer_Handbook_Okidata.pdf).
 
