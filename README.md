@@ -32,3 +32,11 @@ The program T1027.BAS is cited in the [Atari 1027 Field Service Manual](https://
 
 ## Atari 1029
 The program A1029CHR.BAS prints out all the Atari 1029 character sets documented in the [Atari 1029 Programmable Printer Manual](https://atariage.com/forums/applications/core/interface/file/attachment.php?id=496311) (or in [Italian](https://archive.org/details/atari1029it/mode/2up)). Thank-you to Łukasz Maśko of the [Atari 8-Bit Computers](https://www.facebook.com/groups/181644898539691) FB group for debugging this program on his real, working Atari 1029 printer.
+
+## Okimate 10
+
+The [OKIMATE.ATR]() disk image contains two test programs.
+
+The program MANDEMOS.BAS is a compilation of the short demo programs scattered throughout the [Okimate 10 Printer Handbook for Atari Computers](http://www.atarimania.com/8bit/files/Okimate_10_Printer_Handbook_Okidata.pdf).
+
+The program COLORS.BAS is an Atari BASIC translation of a program found in the [Okidata Okimate 10 Printer Manual for Commod'e(R) Computers] (ftp://cbm8bit.com/hardware/manuals/Okimate_10_Printer_Manual_(Revised_1985_Jul).pdf) which prints samples of all the colors.
