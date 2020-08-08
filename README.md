@@ -39,4 +39,4 @@ The [OKIMATE.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/ma
 
 The program MANDEMOS.BAS is a compilation of the short demo programs scattered throughout the [Okimate 10 Printer Handbook for Atari Computers](http://www.atarimania.com/8bit/files/Okimate_10_Printer_Handbook_Okidata.pdf).
 
-The program COLORS.BAS is an Atari BASIC translation of a program found in the [Okidata Okimate 10 Printer Manual for Commod'e(R) Computers] (ftp://cbm8bit.com/hardware/manuals/Okimate_10_Printer_Manual_(Revised_1985_Jul).pdf) which prints samples of all the colors.
+The program COLORS.BAS is an Atari BASIC translation of a program found in the [Okidata Okimate 10 Printer Manual for Commod'e(R) Computers](ftp://cbm8bit.com/hardware/manuals/Okimate_10_Printer_Manual_(Revised_1985_Jul).pdf) which prints samples of all the colors.
