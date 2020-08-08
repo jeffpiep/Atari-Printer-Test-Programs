@@ -37,6 +37,6 @@ The program A1029CHR.BAS prints out all the Atari 1029 character sets documented
 
 The [OKIMATE.ATR](https://github.com/jeffpiep/Atari-Printer-Test-Programs/raw/master/OKIMATE.ATR) disk image contains two test programs and the [T1025.BAS](https://github.com/jeffpiep/Atari-Printer-Test-Programs/blob/master/README.md#atari-1025) program. The Okimate 10 was Atari 1025 compatible.
 
-The program MANDEMOS.BAS is a compilation of the short demo programs scattered throughout the [Okimate 10 Printer Handbook for Atari Computers](http://www.atarimania.com/8bit/files/Okimate_10_Printer_Handbook_Okidata.pdf).
+The program MNLDEMOS.BAS is a compilation of the short demo programs scattered throughout the [Okimate 10 Printer Handbook for Atari Computers](http://www.atarimania.com/8bit/files/Okimate_10_Printer_Handbook_Okidata.pdf). There is a horizontal position command that moves the printhead over by a number of dot spaces. The manual shows the number as a three ASCII character string. The "D:LEARN" program on the [pack-in disk](http://www.atarimania.com/utility-atari-400-800-xl-xe-okimate-10-atari-software_33598.html), however, outputs the number as three bytes, each byte ranges 0-9 and forms a decimal number as hundreds, tens, and ones places. The example in MNLDEMOS.BAS does the same. 
 
 The program COLORS.BAS is an Atari BASIC translation of a program found in the [Okidata Okimate 10 Printer Manual for Commod'e(R) Computers](ftp://cbm8bit.com/hardware/manuals/Okimate_10_Printer_Manual_(Revised_1985_Jul).pdf) which prints samples of all the colors.
